@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://dutumchungjeongno.com 을 https://도메인 으로 전부 바꾸기 (끝에 / 없이). 주석은 지워도 됨 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dutumchungjeongno.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dutumchungjeongno.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dutumchungjeongno.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dutumchungjeongno.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dutumchungjeongno.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dutumchungjeongno.com/"/>
+  </url>
+  <url>
+    <loc>https://dutumchungjeongno.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dutumchungjeongno.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dutumchungjeongno.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dutumchungjeongno.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dutumchungjeongno.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dutumchungjeongno.com/"/>
+  </url>
+  <url>
+    <loc>https://dutumchungjeongno.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dutumchungjeongno.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dutumchungjeongno.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dutumchungjeongno.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dutumchungjeongno.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dutumchungjeongno.com/"/>
+  </url>
+  <url>
+    <loc>https://dutumchungjeongno.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://dutumchungjeongno.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dutumchungjeongno.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://dutumchungjeongno.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://dutumchungjeongno.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dutumchungjeongno.com/"/>
+  </url>
+</urlset>
